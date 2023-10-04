@@ -89,3 +89,10 @@ Express.js
 Prisma
 
 SQLite
+
+# Preview
+
+![image](https://github.com/dimicodes/notes-app/assets/45632694/b3447b94-52b6-49e3-bc1c-16192a3ec873)
+
+![image](https://github.com/dimicodes/notes-app/assets/45632694/0039d375-c294-4c00-9399-671b6b57ed9d)
+
